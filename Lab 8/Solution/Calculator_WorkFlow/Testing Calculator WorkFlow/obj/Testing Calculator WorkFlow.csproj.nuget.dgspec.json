@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\Testing Calculator WorkFlow\\Testing Calculator WorkFlow.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\Testing Calculator WorkFlow\\Testing Calculator WorkFlow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\Testing Calculator WorkFlow\\Testing Calculator WorkFlow.csproj",
+        "projectName": "Testing Calculator WorkFlow",
+        "projectPath": "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\Testing Calculator WorkFlow\\Testing Calculator WorkFlow.csproj",
+        "packagesPath": "C:\\Users\\Amjad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\Testing Calculator WorkFlow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amjad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\WorkflowConsoleApplicationCalculator\\WorkflowConsoleApplicationCalculator.csproj": {
+                "projectPath": "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\WorkflowConsoleApplicationCalculator\\WorkflowConsoleApplicationCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\WorkflowConsoleApplicationCalculator\\WorkflowConsoleApplicationCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\WorkflowConsoleApplicationCalculator\\WorkflowConsoleApplicationCalculator.csproj",
+        "projectName": "WorkflowConsoleApplicationCalculator",
+        "projectPath": "C:\\Users\\Amjad\\source\\repos\\Calculator_WorkFlow\\WorkflowConsoleApplicationCalculator\\WorkflowConsoleApplicationCalculator.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

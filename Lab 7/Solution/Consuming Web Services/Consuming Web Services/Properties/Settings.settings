@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Consuming_Web_Services.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Consuming_Web_Services_CalculatorWebService_Calculator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:51831/Calculator.asmx</Value>
+    </Setting>
+    <Setting Name="Consuming_Web_Services_HealthWebService_HealthService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:51831/HealthService.asmx</Value>
+    </Setting>
+    <Setting Name="Consuming_Web_Services_AgeCalculationWebService_AgeCalculation" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:51831/AgeCalculation.asmx</Value>
+    </Setting>
+    <Setting Name="Consuming_Web_Services_localhost_AddtoCart" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:51831/AddtoCart.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

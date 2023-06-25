@@ -1,0 +1,31 @@
+﻿@model List<ProductMicroService.Models.Product>
+
+<h1>Product List</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = product.Id })">Details</a> |
+                    <a href="@Url.Action("Edit", new { id = product.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", new { id = product.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")">Create New Product</a>

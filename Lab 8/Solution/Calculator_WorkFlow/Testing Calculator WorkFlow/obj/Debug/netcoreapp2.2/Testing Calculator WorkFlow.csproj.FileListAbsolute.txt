@@ -1,0 +1,15 @@
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\Testing Calculator WorkFlow.deps.json
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\Testing Calculator WorkFlow.runtimeconfig.json
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\Testing Calculator WorkFlow.runtimeconfig.dev.json
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\Testing Calculator WorkFlow.dll
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\Testing Calculator WorkFlow.pdb
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\WorkflowConsoleApplicationCalculator.exe
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\WorkflowConsoleApplicationCalculator.pdb
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\bin\Debug\netcoreapp2.2\WorkflowConsoleApplicationCalculator.exe.config
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\obj\Debug\netcoreapp2.2\Testing Calculator WorkFlow.csprojAssemblyReference.cache
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\obj\Debug\netcoreapp2.2\Testing Calculator WorkFlow.csproj.CoreCompileInputs.cache
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\obj\Debug\netcoreapp2.2\Testing Calculator WorkFlow.AssemblyInfoInputs.cache
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\obj\Debug\netcoreapp2.2\Testing Calculator WorkFlow.AssemblyInfo.cs
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\obj\Debug\netcoreapp2.2\Testing Calculator WorkFlow.csproj.CopyComplete
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\obj\Debug\netcoreapp2.2\Testing Calculator WorkFlow.dll
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\Testing Calculator WorkFlow\obj\Debug\netcoreapp2.2\Testing Calculator WorkFlow.pdb

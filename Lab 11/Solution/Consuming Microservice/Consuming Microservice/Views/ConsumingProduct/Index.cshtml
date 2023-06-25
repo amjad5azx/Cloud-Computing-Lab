@@ -1,0 +1,41 @@
+﻿@model List<Consuming_Microservice.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Product List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Category ID</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>@product.Price</td>
+                <td>@product.CategoryId</td>
+                <td>
+                    @Html.ActionLink("Details", "Details", new { id = product.Id })
+                    |
+                    @Html.ActionLink("Edit", "Edit", new { id = product.Id })
+                    |
+                    @Html.ActionLink("Delete", "Delete", new { id = product.Id }, new { onclick = "return confirm('Are you sure you want to delete this product?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>@Html.ActionLink("Create New Product", "Create")</p>

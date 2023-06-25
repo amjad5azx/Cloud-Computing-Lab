@@ -1,0 +1,4 @@
+obj\x86\Debug\_WorkflowConsoleApplicationCalculator.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\WorkflowConsoleApplicationCalculator_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\Amjad\source\repos\Calculator_WorkFlow\WorkflowConsoleApplicationCalculator\obj\x86\Debug\WorkflowConsoleApplicationCalculator_Workflow1_CompiledExpressionRoot.cs
